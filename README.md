@@ -1,2 +1,2 @@
 # Gladys
-Desarrollo Web Personalizado.
+Desarrollo Web.
